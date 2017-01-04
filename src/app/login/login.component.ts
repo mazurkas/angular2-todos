@@ -17,7 +17,7 @@ export class LoginComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() { chap01
+  ngOnInit() {
   }
 
 }
